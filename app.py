@@ -14,3 +14,5 @@ def luas_segitiga():
         luas = p * l
         print("Luas Persegi adalah: ", luas)
     luas_persegi_panjang()
+
+    luas_lingkaran()
